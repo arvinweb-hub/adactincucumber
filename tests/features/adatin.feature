@@ -1,6 +1,6 @@
 Feature: validate the adactin function of adactin hotel app
 
-Scenario: validate userlogin
+Scenario: validate hotel booking
 Given navigate to adactin hotelapp
 When enter valid username and passwrod
 Then click on login button and the app should be redirected to hotel search page
